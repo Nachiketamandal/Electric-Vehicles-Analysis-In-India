@@ -21,13 +21,13 @@ to the data analytics team of AtliQ motors and Peter Pandey is the data analyst 
 ## Data Model 
 
 <p align="center">
-  <img src="https://github.com/Nachiketamandal/Electric-Vehicles-Analysis-In-India/blob/main/Data%20Modeling%20updated.jpg" height="400">
+  <img src="https://github.com/Nachiketamandal/Electric-Vehicles-Analysis-In-India/blob/main/Data%20Modeling%20updated.jpg">
 </p>
 
 ## Dashboard 
 
 <p align="center">
-  <img src="https://github.com/Nachiketamandal/Electric-Vehicles-Analysis-In-India/blob/main/Market%20View.jpg" width="300">
+  <img src="https://github.com/Nachiketamandal/Electric-Vehicles-Analysis-In-India/blob/main/Market%20View.jpg">
 </p>
 
 ## Some Major Insights 

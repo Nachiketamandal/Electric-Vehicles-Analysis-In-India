@@ -34,6 +34,6 @@ to the data analytics team of AtliQ motors and Peter Pandey is the data analyst 
 
 - Peak months of EV sales are seen to be **May**, **November** and **March**.
 - **Maharashtra** and **Kerala** having mid PR are showing high 2030 sales projection in EVs.
-- **Goa**t and **Meghalaya** have sold most vehicles with 20.5% and 28.47% CAGR.
+- **Goa** and **Meghalaya** have sold most vehicles with 20.5% and 28.47% CAGR.
 - In 2 Wheelers **OLa Electric** Revenue 41.6 bn and Total Units 489473
 - In 4 Wheelers Tata Motors Revenue 133.4 bn and Total Units 88935
